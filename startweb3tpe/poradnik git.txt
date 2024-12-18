@@ -1,0 +1,12 @@
+github.com/siwyisme/startweb
+
+
+w cmd i otworz folder w ktorym chcesz miec to i potem:
+git clone github.com/LordOwing/startweb3tpe.git
+git remote set-url origin https://git-repo/new-repository.git(link do respozytorium swojego gdzie to chcesz miec)
+
+
+
+
+link do poradnika:
+zico.ayz.pl/alo/git.pdf
